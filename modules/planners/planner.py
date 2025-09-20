@@ -1,5 +1,5 @@
+#Simple task planner: stores a queue of tasks and returns the next task.
 class Planner:
-
     def __init__(self):
         self.tasks = []
 
