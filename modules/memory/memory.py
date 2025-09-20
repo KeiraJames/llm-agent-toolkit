@@ -1,4 +1,4 @@
- #  Simple in-memory store for agent state, past actions, or results.
+ #  Simple in memory store for agent state, past actions, or results.
 
 class Memory:
     def __init__(self):
